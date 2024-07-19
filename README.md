@@ -16,7 +16,7 @@ The analysis revealed that the Random Forest algorithm was the most accurate mod
 3. Run the provided R scripts to train and evaluate the models
 
 ## Results
-Detailed results and visualizations can be found in the `visualization` folder, showcasing the model performance and insights derived from the analysis.
+Detailed results and visualizations can be found in the `Visualization` folder, showcasing the model performance and insights derived from the analysis.
 
 ## Conclusion
 The Random Forest model's high accuracy underscores its suitability for predicting customer satisfaction in airline services. Further improvements can be explored by incorporating additional features and more complex models.
